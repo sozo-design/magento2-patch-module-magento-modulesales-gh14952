@@ -1,0 +1,7 @@
+{
+  "patches": {
+    "magento/module-sales": {
+      "Magento 2.2.7 Transactional Emails Sending fix": "../environments/global/patches/magento/module-sales/2.2.7_transactional_email_sending_v1.patch"
+    }
+  }
+}
